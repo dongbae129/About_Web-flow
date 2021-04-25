@@ -1,8 +1,9 @@
 # About_Web
-<h3>해당 repositorie는 web에 대한 코드 로서 프로젝트가 아닌 텍스트 형식의 정보전달과 정리를 목표로 하고있습니다</h3>
+<h1>브라우저 <-> front(client) <-> server 와의 통신 흐름과 관계를 알아보도록 하겠습니다</h1>
+<strong>axios, node-express, mysql-sequelize 를 이용하여 서버,DB 와 의 통신을 실행하겠습니다.</strong>
 <p>아래의 목차에 대해 진행됩니다.</p>
 <ul>
-  <li>Javascript</li>
-  <li>React</li>
-  <li>기타</li>
+  <li>브라우저 - 렌더링</li>
+  <li>front - 통신</li>
+  <li>server - 통신</li>
 </ul>
